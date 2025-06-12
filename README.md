@@ -28,6 +28,15 @@ The name Mattern comes from "matter" and "pattern". Every detail matters and was
 - `dlig` - Rare ligatures
 
 
+## Fontlog
+
+#### June 12, 2025 - Mattern v1.0
+- First public release
+- Open source
+
+#### [↓ Download ↓](https://github.com/ahmadfawaid/Mattern/releases/latest)
+
+
 ## License
 
 Mattern Font is licensed under the [SIL Open Font License 1.1](https://github.com/ahmadfawaid/Mattern/blob/main/LICENSE.txt).
