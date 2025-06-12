@@ -11,6 +11,20 @@ Mattern is a serif typeface that was originally designed for headlines, yet it p
 The name Mattern comes from "matter" and "pattern". Every detail matters and was carefully crafted to create consistent patterns for comfortable reading.
 
 
+## Opentype Features
+
+#### Stylistic Sets:
+| Example                                    | Set Name | Description                                      |
+| -------------------------------------------| -------- | ------------------------------------------------ |
+| ![Mattern SS01](./docs/mattern-ss01.png)   | `ss01`   | Alternate “M” with straight vertical stems       |
+| ![Mattern SS02](./docs/mattern-ss02.png)   | `ss02`   | Alternate “a” with straight-sided stem           |
+| ![Mattern SS03](./docs/mattern-ss03.png)   | `ss03`   | Alternate “g” with single-storey form            |
+
+#### Other features:
+- `liga` - Standard ligatures
+- `dlig` - Rare ligatures
+
+
 ## License
 
 Mattern Font is licensed under the [SIL Open Font License 1.1](https://github.com/ahmadfawaid/Mattern/blob/main/LICENSE.txt).
