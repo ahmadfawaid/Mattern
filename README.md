@@ -17,13 +17,13 @@ The name Mattern comes from "matter" and "pattern". Every detail matters and was
 ## Opentype Features
 
 #### Stylistic Sets:
-| Example                                    | Set Name | Description                                      |
-| -------------------------------------------| -------- | ------------------------------------------------ |
-| ![Mattern SS01](./docs/mattern-ss01.png)   | `ss01`   | Alternate “M” with straight vertical stems       |
-| ![Mattern SS02](./docs/mattern-ss02.png)   | `ss02`   | Alternate “a” with straight-sided stem           |
-| ![Mattern SS03](./docs/mattern-ss03.png)   | `ss03`   | Alternate “g” with single-storey form            |
+| Example                                    | Stylistic Set | Description                                      |
+| -------------------------------------------| ------------- | ------------------------------------------------ |
+| ![Mattern SS01](./docs/mattern-ss01.png)   | `ss01`        | Alternate “M” with straight vertical stems       |
+| ![Mattern SS02](./docs/mattern-ss02.png)   | `ss02`        | Alternate “a” with straight-sided stem           |
+| ![Mattern SS03](./docs/mattern-ss03.png)   | `ss03`        | Alternate “g” with single-storey form            |
 
-#### Other features:
+#### Other Features:
 - `liga` - Standard ligatures
 - `dlig` - Rare ligatures
 
