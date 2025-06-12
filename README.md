@@ -11,6 +11,9 @@ Mattern is a serif typeface that was originally designed for headlines, yet it p
 The name Mattern comes from "matter" and "pattern". Every detail matters and was carefully crafted to create consistent patterns for comfortable reading.
 
 
+![Mattern Letters](./docs/mattern-02.jpg)
+
+
 ## Opentype Features
 
 #### Stylistic Sets:
